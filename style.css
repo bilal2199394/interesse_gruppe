@@ -19,4 +19,9 @@ main{
    footer {
     background-color: rgba(0, 0, 0, 0.492);
     font-size: 100vh;
+    height: 100vh;
+   }
+
+   aside {
+    height: 2vh;
    }
