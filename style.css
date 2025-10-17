@@ -6,4 +6,14 @@ header{
 main{
     color: black;
     background-color: azure;
-}
+    display: flex;
+    
+   flex-direction: column;
+   }
+
+   img{
+    align-self: center;
+    width: 50vh;
+   }
+
+   
