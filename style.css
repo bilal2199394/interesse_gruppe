@@ -16,4 +16,6 @@ main{
     width: 50vh;
    }
 
-   
+   footer {
+    background-color: black;
+   }
