@@ -6,18 +6,19 @@ h1{
 
 h2{
     color: azure;
-    
-   
+
 }
 
 header{
     background-color: black;
     display: flex;
     align-items: center;
-    gap: 30vh;
+    gap: 35vh;
     color: white;
 }
-
-p{
+main{
+    color: beige;
+    background-color: black;
+    height: 100vh;
 
 }
