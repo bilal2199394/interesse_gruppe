@@ -12,8 +12,12 @@ h2{
 
 header{
     background-color: black;
+    display: flex;
+    align-items: center;
+    gap: 30vh;
+    color: white;
 }
 
 p{
-    
+
 }
